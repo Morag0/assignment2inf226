@@ -1,1 +1,1 @@
-# assignment2inf226
+#Assignment2 in Inf226
